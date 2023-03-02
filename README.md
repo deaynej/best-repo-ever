@@ -30,3 +30,6 @@ Checkout to that branch: git checkout myfeaturebranch
 To open readme: Code Readme.md
 
 BRANCHES ARE BEST SHORT-LIVED (Delete after use)
+
+Be careful with branches
+

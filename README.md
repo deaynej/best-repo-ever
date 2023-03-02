@@ -28,3 +28,5 @@ Type git branch myfeaturebranch
 Checkout to that branch: git checkout myfeaturebranch
 
 To open readme: Code Readme.md
+
+Be careful with branches
